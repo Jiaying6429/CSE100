@@ -26,9 +26,9 @@ _Italian_
 
 ```block```
 
-[link](ucsd.edu) 
+[ucsd.edu](https://ucsd.edu/)
 
-[relative link](docs/README.md)
+[relative link](README.md)
 
 [section link](#heading-1)
 
